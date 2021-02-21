@@ -10,11 +10,11 @@
 
 目前并没有采用 Vue,React等前端框架，采用ES6原生的templete string渲染消息，采用mdui提供的轻量级数据库对DOM进行操作。
 
-![主界面UI](img\image-20210221095938701.png)
+![主界面UI](/img/image-20210221095938701.png)
 
-![抽屉栏](img\image-20210221100635478.png)
+![抽屉栏](/img/image-20210221100635478.png)
 
-![templete string 你可以方便地自定义其内容和布局](img\image-20210221100434321.png)
+![templete string 你可以方便地自定义其内容和布局](/img/image-20210221100434321.png)
 
 ### 如何使用？
 
