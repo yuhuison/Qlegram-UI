@@ -8,7 +8,7 @@
 
 高效的Telegram-Like聊天UI框架，实测在20个会话，每个会话1000条消息下仍能流畅渲染。
 
-目前并没有采用 Vue,React等前端框架，采用ES6原生的templete string渲染消息，采用mdui提供的轻量级数据库对DOM进行操作。
+目前并没有采用 Vue,React等前端框架，采用ES6原生的templete string渲染消息，采用mdui提供的轻量级工具库对DOM进行操作。
 
 ![主界面UI](/img/image-20210221095938701.png)
 
